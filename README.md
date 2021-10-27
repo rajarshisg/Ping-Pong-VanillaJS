@@ -1,5 +1,5 @@
 
-# Meals-App-VanillaJS
+# Ping-Pong-VanillaJS
 
 A Ping Pong game created using VanillaJS.
 
@@ -26,6 +26,7 @@ Go to the project directory
 
 
 ## Screenshots 
+<img width="960" alt="1p" src="https://user-images.githubusercontent.com/55212405/139138965-e4dcce0a-ea62-4113-aa56-d9bc640edd1a.PNG">
 
 
 ## Tech Stack
